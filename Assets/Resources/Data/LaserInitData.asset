@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 815a98d015b5bd04491b754e8a048134, type: 3}
+  m_Name: LaserInitData
+  m_EditorClassIdentifier: 
+  laserPrefab: {fileID: 6559575547169547387, guid: 0b295e825074be24c9e502e7da8cca40, type: 3}
+  distance: 100
+  attackTime: 0.3
+  maxShootCount: 3
+  reloadTimerDelay: 0.5
+  reloadTimerMax: 30

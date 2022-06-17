@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4da7188d34ca9174c8a03a5d44481eee, type: 3}
+  m_Name: Static Data
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 0}
+  enemiesData: {fileID: 11400000, guid: 1653f2d47c6fc81468da0ee34d3d08f7, type: 2}
+  bulletGunInitData: {fileID: 11400000, guid: d11d282f433a97042a061307d444cccb, type: 2}
+  laserInitData: {fileID: 11400000, guid: e2892288d86506344b20bf580dbf990d, type: 2}
+  shatterInitData: {fileID: 11400000, guid: d9b0c969e6e17a54f80921b0f6df8397, type: 2}
+  meteorDestroyableData: {fileID: 11400000, guid: 77b2fd39e4b3a6147ae8e34b711a74a8, type: 2}
